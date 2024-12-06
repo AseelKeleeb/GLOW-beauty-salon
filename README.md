@@ -43,7 +43,7 @@ The team members involved in creating this work are:
 
 ### Acknowledgments
 
-We would like to express our sincere appreciation to Professor Bushra Al-Gotiml for her exceptional guidance, support, and expertise throughout the development of GLOW Beauty Salon. Her extensive knowledge of Object-Oriented Programming (OOP) and her dedication to teaching at Umm Al-Qura University (UQU) have been invaluable in shaping our understanding of software development principles. Professor Bushra Al-Gotiml's mentorship has played a vital role in our growth as aspiring software developers, and we are grateful for the opportunity to work on this project under her guidance.
+We would like to express our sincere appreciation to **Dr. Bushra Al-Gotiml** for her exceptional guidance, support, and expertise throughout the development of GLOW Beauty Salon. Her extensive knowledge of Object-Oriented Programming (OOP) and her dedication to teaching at Umm Al-Qura University (UQU) have been invaluable in shaping our understanding of software development principles. Dr. Bushra Al-Gotiml's mentorship has played a vital role in our growth as aspiring software developers, and we are grateful for the opportunity to work on this project under her guidance.
 
 Additionally, we would like to acknowledge the efforts of our fellow classmates who have provided valuable insights and suggestions during the development process. Their contributions have been immensely helpful in refining the GLOW Beauty Salon project.
 
